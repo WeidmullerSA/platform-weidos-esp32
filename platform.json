@@ -74,7 +74,7 @@
 	    "type": "framework",
 	    "optional": true,
 	    "owner": "Weidmuller",
-	    "version": "2.3.1-hf"
+	    "version": ">=2.0.4"
 	},
 	"framework-arduino-mbcwb": {
 	    "type": "framework",
